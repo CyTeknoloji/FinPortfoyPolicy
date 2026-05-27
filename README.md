@@ -1,55 +1,56 @@
-# Gizlilik Politikası
-Bu gizlilik politikası, CyTech tarafından geliştirilen ve "FinPortföy" uygulaması olarak adlandırılan mobil cihazlar için sunulan ücretsiz hizmete uygulanır. Bu hizmet "OLDUĞU GİBİ" kullanıma sunulmuştur.
+# Privacy Policy
+This privacy policy applies to the free service for mobile devices developed by CyTech and called "FinPortfolio" application. This service is provided "AS IS".
 
-Bilgi Toplama ve Kullanma
-Uygulama, indirildiğinde ve kullanıldığında bilgi toplar. Bu bilgiler şunları içerebilir:
+Information Collection and Use
+The application collects information when it is downloaded and used. This information may include:
 
-Cihazınızın Internet Protokol adresi (örneğin, IP adresi)
-Uygulamanın ziyaret edilen sayfaları, ziyaret tarih ve saati, bu sayfalarda geçirilen süre
-Uygulamada geçirilen süre
-Mobil cihazınızda kullandığınız işletim sistemi.
-Uygulama, mobil cihazınızın tam konumunu toplamaz.
+Your device's Internet Protocol address (e.g., IP address)
+Pages visited on the application, date and time of visit, time spent on those pages
+Time spent on the application
+The operating system you use on your mobile device.
+The application does not collect the exact location of your mobile device.
+The Service Provider may use the information you provide to contact you from time to time, provide important information, provide necessary notifications and marketing promotions.
 
-Servis Sağlayıcı, sağladığınız bilgileri zaman zaman sizle iletişime geçmek, önemli bilgiler sunmak, gerekli bildirimler ve pazarlama promosyonları sağlamak için kullanabilir.
+To provide a better experience, the Service Provider may request certain personally identifiable information from you while using the Application. The information requested by the Service Provider will be stored and used as described in this privacy policy.
 
-Daha iyi bir deneyim sağlamak için, Uygulamayı kullanırken Servis Sağlayıcı sizden belirli kişisel tanımlanabilir bilgiler talep edebilir. Servis Sağlayıcının talep ettiği bilgiler saklanacak ve bu gizlilik politikasında açıklandığı şekilde kullanılacaktır.
+Third-Party Access
+Only aggregated, anonymized data is periodically transmitted to external services to help the Service Provider improve the Application and its services. The Service Provider indicates that your information may be shared with third parties in the ways described in this privacy statement.
 
-Üçüncü Taraf Erişimi
-Yalnızca toplu, anonimleştirilmiş veriler, Servis Sağlayıcının Uygulamayı ve hizmetlerini geliştirmesine yardımcı olmak amacıyla dış hizmetlere periyodik olarak iletilir. Servis Sağlayıcı, bilgilerinizin üçüncü taraflarla, bu gizlilik beyanında açıklanan şekillerde paylaşılabileceğini belirtir.
+Please note that the Application uses third-party services that have their own Privacy Policy regarding the processing of data. Below are links to the Privacy Policies of the third-party service providers used by the Application:
 
-Lütfen Uygulamanın, verilerin işlenmesi hakkında kendi Gizlilik Politikası olan üçüncü taraf hizmetleri kullandığını unutmayın. Aşağıda Uygulamanın kullandığı üçüncü taraf hizmet sağlayıcılarının Gizlilik Politikalarına bağlantılar bulunmaktadır:
-
-Google Play Hizmetleri
+Google Play Services
 AdMob
 Google Analytics for Firebase
 Firebase Crashlytics
-Servis Sağlayıcı, Kullanıcı Tarafından Sağlanan ve Otomatik Olarak Toplanan Bilgileri aşağıdaki durumlarda açıklayabilir:
+The Service Provider may disclose User-Provided and Automatically Collected Information in the following circumstances:
 
-Yasa gereği, örneğin bir mahkeme celbi veya benzeri yasal süreçlere uyum sağlamak için;
-Haklarını korumak, sizin veya diğerlerinin güvenliğini sağlamak, dolandırıcılığı araştırmak veya hükümet taleplerine yanıt vermek için iyi niyetle açıklamanın gerekli olduğuna inandıklarında;
-Kendileri adına çalışan, bilgilere bağımsız bir kullanım hakkı olmayan ve bu gizlilik beyanında belirtilen kurallara uymayı kabul eden güvenilir hizmet sağlayıcıları ile.
+As required by law, for example to comply with a subpoena or similar legal process;
 
-Çıkış Hakları
-Uygulamanın bilgi toplamasını durdurmak için uygulamayı kolayca kaldırabilirsiniz. Bu işlemi mobil cihazınızın standart kaldırma süreçlerini kullanarak veya mobil uygulama mağazası veya ağı üzerinden gerçekleştirebilirsiniz.
+When they believe in good faith that disclosure is necessary to protect their rights, ensure your or others' safety, investigate fraud, or respond to government requests;
 
-Veri Saklama Politikası
-Servis Sağlayıcı, Kullanıcı Tarafından Sağlanan verileri Uygulamayı kullandığınız sürece ve makul bir süre sonrasında saklayacaktır. Uygulama aracılığıyla sağladığınız Kullanıcı Tarafından Sağlanan verilerin silinmesini isterseniz, lütfen info@finportfoy.com adresinden onlara ulaşın ve makul bir süre içinde yanıt alacaksınız.
+With trusted service providers who work on their behalf, do not have an independent right to use the information, and agree to comply with the rules set out in this privacy statement.
 
-Çocuklar
-Servis Sağlayıcı, Uygulamayı 13 yaş altı çocuklardan veri toplamak veya bu yaş grubuna pazarlama yapmak amacıyla bilerek kullanmamaktadır.
+Opt-Out Rights
+You can easily uninstall the application to stop the application from collecting information. You can perform this operation using your mobile device's standard uninstall procedures or via the mobile app store or network.
 
-Uygulama 13 yaş altındaki kişilere hitap etmemektedir. Servis Sağlayıcı, 13 yaş altı çocuklardan kişisel tanımlanabilir bilgi toplamadığını bilmektedir. Eğer Servis Sağlayıcı, 13 yaş altı bir çocuğun kişisel bilgi sağladığını keşfederse, bu bilgiyi derhal sunucularından silecektir. Eğer bir ebeveyn veya vasiyseniz ve çocuğunuzun bize kişisel bilgi sağladığını fark ederseniz, lütfen Servis Sağlayıcı ile iletişime geçin (info@finportfoy.com) böylece gerekli işlemler yapılabilir.
+Data Retention Policy
+The Service Provider will retain User-Provided data for as long as you use the Application and for a reasonable period of time thereafter. If you wish to have User-Provided data deleted through the Application, please contact them at info@finportfoy.com and you will receive a response within a reasonable time.
 
-Güvenlik
-Servis Sağlayıcı, bilgilerinizin gizliliğini koruma konusunda temkinlidir. Servis Sağlayıcı, işlediği ve sakladığı bilgileri korumak için fiziksel, elektronik ve prosedürel güvenlik önlemleri sağlar.
+Children
+The Service Provider does not knowingly use the Application to collect data from or market to children under the age of 13.
 
-Değişiklikler
-Bu Gizlilik Politikası zaman zaman herhangi bir nedenle güncellenebilir. Servis Sağlayıcı, Gizlilik Politikasındaki değişiklikleri bu sayfayı yeni Gizlilik Politikası ile güncelleyerek size bildirecektir. Bu nedenle, tüm değişiklikleri onaylamış sayılmanız için bu Gizlilik Politikasını düzenli olarak gözden geçirmeniz tavsiye edilir.
+The Application is not intended for individuals under the age of 13. The Service Provider acknowledges that it does not collect personally identifiable information from children under the age of 13. If the Service Provider discovers that a child under the age of 13 has provided personal information, it will immediately delete this information from its servers. If you are a parent or guardian and you become aware that your child has provided us with personal information, please contact the Service Provider (info@finportfoy.com) so that the necessary actions can be taken.
 
-Bu gizlilik politikası 2024-10-03 tarihinde güncellenmiştir.
+Security
+The Service Provider is cautious about protecting the privacy of your information. The Service Provider provides physical, electronic, and procedural security measures to protect the information it processes and stores.
 
-Onayınız
-Uygulamayı kullanarak, bu Gizlilik Politikasında belirtilen bilgilerin işlenmesini onaylamış olursunuz ve politikada yapılan değişiklikleri kabul etmiş olursunuz.
+Changes
+This Privacy Policy may be updated from time to time for any reason. The Service Provider will notify you of changes to the Privacy Policy by updating this page with the new Privacy Policy. Therefore, it is recommended that you review this Privacy Policy regularly to ensure you accept all changes.
 
-Bizimle İletişime Geçin
-Uygulamayı kullanırken gizlilikle ilgili herhangi bir sorunuz varsa veya uygulama ile ilgili uygulama politikaları hakkında sorularınız varsa, lütfen Servis Sağlayıcı ile info@finportfoy.com adresinden e-posta yoluyla iletişime geçin.
+This privacy policy was updated on 2024-10-03.
+
+Your Consent
+By using the Application, you consent to the processing of information as described in this Privacy Policy and accept any changes made to the policy.
+
+Contact Us
+If you have any questions about privacy while using the Application or about the application policies related to the application, please contact the Service Provider via email at cy.teknoloji@gmail.com
